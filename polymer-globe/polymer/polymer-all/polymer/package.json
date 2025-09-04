@@ -11,6 +11,6 @@
     "karma-mocha": "*",
     "karma-script-launcher": "*",
     "karma-crbot-reporter": "*",
-    "grunt-audit": "~0.0.1"
+    "grunt-audit": "~1.0.0"
   }
 }
