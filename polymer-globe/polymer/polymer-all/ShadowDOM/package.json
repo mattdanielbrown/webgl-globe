@@ -6,7 +6,7 @@
     "chai": "*",
     "grunt": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-contrib-yuidoc": "~0.4.0",
+    "grunt-contrib-yuidoc": "~0.6.0",
     "grunt-karma": "~0.5.0",
     "karma-mocha": "*",
     "karma-script-launcher": "*",
